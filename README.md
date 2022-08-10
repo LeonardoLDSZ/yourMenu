@@ -16,3 +16,8 @@ https://evento.rocketseat.com.br/maratona/explorer/aula-1
 
 In this class we will continue the construction of our project and give it a face. You will know the advantages of building a project and the pillars to build your journey in programming.
 https://evento.rocketseat.com.br/maratona/explorer/aula-2
+
+
+# Class #3
+
+In this class we will put the final touches and put our website in the world. With the project in hand, you will be one step closer to the programming market and will know the next steps of your journey.
