@@ -21,3 +21,5 @@ https://evento.rocketseat.com.br/maratona/explorer/aula-2
 # Class #3
 
 In this class we will put the final touches and put our website in the world. With the project in hand, you will be one step closer to the programming market and will know the next steps of your journey.
+
+https://evento.rocketseat.com.br/maratona/explorer/aula-3
